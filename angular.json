@@ -90,7 +90,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [] 
           }
         },
         "lint": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "VirtualMind-App"
+    }
+  },
+  "defaultProject": "VirtualMind-App",
+  "cli": {
+    "analytics": false
+  }
 }
